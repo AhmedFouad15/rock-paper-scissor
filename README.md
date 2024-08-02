@@ -10,4 +10,4 @@ This is a rock paper scissor which the user play against the computer
 5. **then if you play again it will continue and score wont be restarted**
 6. **if you said no it will stop and say bye bye**
 
-# [**Feel free to reach out if you have any questions or need further assistance!**],(https://t.me/+201065207370)
+# [**Feel free to reach out if you have any questions or need further assistance!**](https://t.me/+201065207370/)
